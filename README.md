@@ -1,2 +1,1 @@
-# hello-cc2
-hello repository 
+# hello-cc
